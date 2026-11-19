@@ -1,0 +1,29 @@
+# AI Project Rules
+
+## Project
+This is a **Red Theme Digital Wedding Invitation Website** for my cousin's wedding. We are customizing an existing wedding invitation project.
+
+## Main Requirements
+- Wedding information will be provided through a Google Form. Use the provided data to populate the website.
+- Website must be fast, lightweight and smooth from the beginning.
+- Optimize images, animations, fonts and assets.
+- Ensure responsive design on mobile and desktop.
+- Avoid unnecessary JavaScript, dependencies and heavy libraries.
+- Preserve the existing design and working functionality unless changes are requested.
+
+## Development Rules
+- Understand existing code before editing.
+- Make only the requested changes.
+- Avoid unnecessary rewrites or creating duplicate code.
+- Check for errors after every significant change.
+- Don't introduce performance issues.
+
+## AI Communication Rules
+- Keep responses short and direct.
+- Don't give lengthy explanations unless asked.
+- Don't repeat information already discussed.
+- Save tokens: focus only on the task.
+- Ask questions only when essential.
+- Provide complete, ready-to-use code when requested.
+
+**Priority: Premium design, fast loading and smooth functionality.**
