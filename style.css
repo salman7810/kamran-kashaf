@@ -527,7 +527,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-image: url('assets/hero-bg.webp'), url('assets/hero-bg.html');
+  background-image: url('assets/hero-bg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -933,7 +933,7 @@ body {
   width: 100%;
   height: 220px;
   border-radius: 14px;
-  background-image: url('assets/scratch-card.webp'), url('assets/scratch-card.html');
+  background-image: url('assets/scratch-card.webp');
   background-size: 100% 100%;
   background-position: center;
   box-shadow: 

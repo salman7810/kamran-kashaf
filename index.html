@@ -231,8 +231,8 @@
                 src="assets/floral-top.webp"
                 alt=""
                 class="floral-garland-top"
-                loading="lazy"
-                decoding="async"
+                loading="eager"
+                fetchpriority="high"
               />
             </div>
 
@@ -253,9 +253,9 @@
                 <span class="filigree-line"></span>
               </div>
 
-              <p class="hero-invite-label reveal-item" data-delay="300">
+              <!-- <p class="hero-invite-label reveal-item" data-delay="300">
                 REQUEST THE PLEASURE OF YOUR COMPANY<br />AT THE WEDDING OF
-              </p>
+              </p> -->
 
               <div class="name-block reveal-item" data-delay="450">
                 <h1 class="couple-name bride-name shimmer-text">Kamran Amin</h1>
@@ -287,10 +287,10 @@
                 <span class="filigree-line"></span>
               </div>
 
-              <p class="hero-tagline reveal-item" data-delay="1050">
+              <!-- <p class="hero-tagline reveal-item" data-delay="1050">
                 AS TWO SOULS UNITE IN FAITH &amp; LOVE<br />UNDER THE DIVINE
                 BLESSINGS OF ALLAH
-              </p>
+              </p> -->
 
               <div class="scroll-indicator reveal-item" data-delay="1200">
                 <span class="scroll-text">SCROLL TO CELEBRATE</span>
@@ -762,6 +762,8 @@
                 src="assets/floral-top.webp"
                 alt=""
                 class="floral-garland-top"
+                loading="eager"
+                fetchpriority="high"
                 onerror="
                   if (!this.dataset.err) {
                     this.dataset.err = 1;
