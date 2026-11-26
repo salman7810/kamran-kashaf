@@ -1971,6 +1971,13 @@ body {
   letter-spacing: 0.8px;
   text-decoration: none;
   transition: all 0.25s ease;
+  color: rgb(255, 255, 255);
+  transform: translateY(-1px);
+  box-shadow: rgba(201, 164, 92, 0.15) 0px 4px 12px;
+  background: rgba(201, 164, 92, 0.2);
+  border-color: var(--bright-gold);
+  
+  
 }
 
 .designer-pill:hover,
